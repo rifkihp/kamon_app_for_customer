@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-phenotype:16.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ec495c05809721060fd75710ba515f23/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ec495c05809721060fd75710ba515f23/jetified-play-services-phenotype-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ec495c05809721060fd75710ba515f23/jetified-play-services-phenotype-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/dc4978ae5e7cd818f43bf8de48d3ff4b/jetified-play-services-phenotype-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/88dd43c88f7b44cd7e9009264007668b/jetified-play-services-phenotype-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/8a08958e9c1e18fca41418ed4611f2c6/jetified-play-services-phenotype-16.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/8a08958e9c1e18fca41418ed4611f2c6/jetified-play-services-phenotype-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/8a08958e9c1e18fca41418ed4611f2c6/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/d0ddd258b0d8d7bfb5a1bb40e3d31dd8/jetified-play-services-phenotype-16.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/e0389ea4aac4e7cb60d014e06d3de6c9/jetified-play-services-phenotype-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/e0389ea4aac4e7cb60d014e06d3de6c9/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/e0389ea4aac4e7cb60d014e06d3de6c9/jetified-play-services-phenotype-16.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

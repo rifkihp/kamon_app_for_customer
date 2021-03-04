@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuHome"
+        android:icon="@drawable/menu_beranda"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/menuWishList"
+        android:icon="@drawable/menu_wishlist"
+        android:title="WishList"/>
+
+    <item
+        android:id="@+id/menuCart"
+        android:icon="@drawable/menu_keranjang"
+        android:title="Cart"/>
+
+    <item
+        android:id="@+id/menuMessage"
+        android:icon="@drawable/menu_perpesanan"
+        android:title="Message"/>
+
+    <item
+        android:id="@+id/menuOrderHistory"
+        android:icon="@drawable/menu_daftar_pesanan"
+        android:title="Order history"/>
+
+    <item
+        android:id="@+id/menuSetting"
+        android:icon="@drawable/menu_notifikasi"
+        android:title="Setting"/>
+
+    <!--<item
+        android:id="@+id/menuLogout"
+        android:title="Logout"/>-->
+</menu>

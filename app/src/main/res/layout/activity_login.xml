@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".LoginActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+            <LinearLayout
+                android:id="@+id/linear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_centerVertical="true">
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/email1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColorHint="@color/colorhint"
+                    android:textColor="@color/colortext">
+
+                    <EditText
+                        android:id="@+id/email"
+                        android:textSize="@dimen/text"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Email / No. HP"
+                        android:layout_marginLeft="46dp"
+                        android:layout_marginRight="46dp"
+                        android:textColorHint="@color/textSub"
+                        android:textColor="@color/Tex"
+                        android:background="#0000"
+                        android:padding="14dp"
+                        android:gravity="left"
+                        android:lines="1"
+                        android:drawableLeft="@drawable/signup_mail"
+                        android:drawablePadding="12dp" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="56dp"
+                    android:layout_marginRight="56dp"
+                    android:layout_height="1dp"
+                    android:background="@color/red" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColorHint="@color/colorhint"
+                    android:textColor="@color/colortext">
+
+                    <EditText
+                        android:id="@+id/edit_password"
+                        android:textSize="@dimen/text"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Password"
+                        android:layout_marginLeft="46dp"
+                        android:layout_marginRight="46dp"
+                        android:textColorHint="@color/textSub"
+                        android:textColor="@color/Tex"
+                        android:background="#0000"
+                        android:padding="14dp"
+                        android:inputType="textPassword"
+                        android:drawableLeft="@drawable/profil_kata_sandi"
+                        android:drawablePadding="16dp" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="56dp"
+                    android:layout_marginRight="56dp"
+                    android:layout_height="1dp"
+                    android:background="@color/red"/>
+
+                <LinearLayout
+                    android:layout_marginTop="12dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginBottom="10dp" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:layout_marginLeft="50dp" >
+
+                        <CheckBox
+                            android:id="@+id/checkbocremember"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:theme="@style/checkBoxStyle" />
+
+                        <TextView
+                            android:id="@+id/remember"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Ingatkan Saya"
+                            android:textColor="@color/textSub"
+                            android:layout_gravity="center"
+                            android:textSize="@dimen/textsub" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/forgotpass"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Lupa Password"
+                        android:textColor="@color/textSub"
+                        android:layout_gravity="center"
+                        android:textSize="@dimen/textsub"
+                        android:gravity="right"
+                        android:layout_marginRight="50dp" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/signin1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/rect1"
+                    android:text="MASUK"
+                    android:textSize="@dimen/text"
+                    android:textColor="#fff"
+                    android:gravity="center"
+                    android:layout_marginLeft="46dp"
+                    android:layout_marginRight="46dp"
+                    android:padding="12dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:elevation="1.5dp" />
+
+                <LinearLayout
+                    android:id="@+id/linear_daftar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="46dp"
+                    android:layout_marginRight="46dp"
+                    android:layout_gravity="right" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Belum Punya Akun?"
+                        android:gravity="center"
+                        android:textColor="@color/textSub"
+                        android:textSize="@dimen/textsub"
+                        android:layout_marginRight="3dp" />
+
+                    <TextView
+                        android:id="@+id/signup"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Daftar Disini"
+                        android:gravity="center"
+                        android:textColor="@color/red"
+                        android:textSize="@dimen/textsub"
+                        android:layout_marginLeft="3dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

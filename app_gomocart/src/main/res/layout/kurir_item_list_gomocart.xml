@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="#fff"
+    android:elevation="2dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp" >
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp">
+
+        <!--****Mitra****-->
+        <TextView
+            android:id="@+id/nama_mitra"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dari Toko Kiezie Store"
+            android:textSize="@dimen/text"
+            android:textColor="@color/Tex"
+            android:textStyle="bold"
+            android:paddingLeft="10dp" />
+
+        <!--****Layanan****-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp" >
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/layanan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColorHint="@color/colorhint"
+                android:textColor="@color/colortext">
+
+                <EditText
+                    android:textSize="@dimen/text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Jasa Pengiriman"
+                    android:textColorHint="@color/textSub"
+                    android:textColor="@color/Tex"
+                    android:background="#0000"
+                    android:padding="10dp"
+                    android:gravity="left"
+                    android:editable="false"
+                    android:inputType="none"
+                    android:maxLines="1"
+                    android:singleLine="true"
+                    android:id="@+id/edit_layanan" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/colordevider"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</LinearLayout>

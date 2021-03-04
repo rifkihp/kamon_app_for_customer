@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.stfalcon:smsverifycatcher:0.3.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc678eda2d102fc31482dd5a644401ae/jetified-smsverifycatcher-0.3.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc678eda2d102fc31482dd5a644401ae/jetified-smsverifycatcher-0.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc678eda2d102fc31482dd5a644401ae/jetified-smsverifycatcher-0.3.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/b746d80ceeb33e227365e7034dece263/jetified-smsverifycatcher-0.3.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/b746d80ceeb33e227365e7034dece263/jetified-smsverifycatcher-0.3.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/b746d80ceeb33e227365e7034dece263/jetified-smsverifycatcher-0.3.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/ca4d7a8fb2399f98985c0839b22daa63/jetified-smsverifycatcher-0.3.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/ca4d7a8fb2399f98985c0839b22daa63/jetified-smsverifycatcher-0.3.2/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/ca4d7a8fb2399f98985c0839b22daa63/jetified-smsverifycatcher-0.3.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stfalcon/smsverifycatcher/0.3.2/c07354cc42b3d4dd8ebedb9d7920bd791c2c7e35/smsverifycatcher-0.3.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/modules-2/files-2.1/com.github.stfalcon/smsverifycatcher/0.3.2/c07354cc42b3d4dd8ebedb9d7920bd791c2c7e35/smsverifycatcher-0.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stfalcon/smsverifycatcher/0.3.2/ca73fd21970936a6efeb8b01a14c00b83cfe6c30/smsverifycatcher-0.3.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/modules-2/files-2.1/com.github.stfalcon/smsverifycatcher/0.3.2/ca73fd21970936a6efeb8b01a14c00b83cfe6c30/smsverifycatcher-0.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

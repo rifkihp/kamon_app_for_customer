@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/rect"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp" >
+
+        <LinearLayout
+            android:id="@+id/linear_detail_pesanan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp" >
+
+            <TextView
+                android:id="@+id/no_invoice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="No. Pesanan: "
+                android:textColor="@color/global_color_green_primary_dark"
+                android:textSize="@dimen/textsub"
+                android:layout_gravity="center_vertical|left"
+                android:paddingBottom="5dp" />
+
+            <TextView
+                android:id="@+id/nama_terapis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nama Terapis: "
+                android:textColor="#000000"
+                android:textSize="@dimen/textsub"
+                android:layout_gravity="center_vertical|left"
+                android:paddingBottom="5dp" />
+
+            <TextView
+                android:id="@+id/tanggal_terapi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tanggal Terapi: "
+                android:textColor="#000000"
+                android:textSize="@dimen/textsub"
+                android:layout_gravity="center_vertical|left"
+                android:paddingBottom="5dp"  />
+
+            <TextView
+                android:id="@+id/riwayat_kesehatan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Riwayat Kesehatan: "
+                android:textColor="#000000"
+                android:textSize="@dimen/textsub"
+                android:layout_gravity="center_vertical|left"  />
+
+            <TextView
+                android:id="@+id/detail_riwayat_kesehatan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ini adalah riwayat kesehatan pasien. Ini adalah riwayat kesehatan pasien.Ini adalah riwayat kesehatan pasien."
+                android:textColor="@color/Tex"
+                android:textSize="@dimen/textsub"
+                android:layout_gravity="center_vertical|left"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="5dp"  />
+
+            <TextView
+                android:id="@+id/status"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Status: "
+                android:textColor="#278CE3"
+                android:textSize="@dimen/textsub"
+                android:layout_gravity="center_vertical|left"
+                android:paddingBottom="5dp"  />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_pembelian"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="#f2f3f4">
+
+            <TextView
+                android:id="@+id/total_pembayaran"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="Pembayaran: Rp. 220.000"
+                android:textSize="@dimen/textsub"
+                android:textColor="@color/Tex"
+                android:padding="10dp"
+                android:gravity="center_vertical|left" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp" >
+
+            <TextView
+                android:id="@+id/batalkan"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="Batalkan"
+                android:textSize="@dimen/textsub"
+                android:textColor="@color/white"
+                android:background="@drawable/button_red"
+                android:gravity="center_vertical|center_horizontal"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:layout_marginRight="5dp" />
+
+            <TextView
+                android:id="@+id/rincian"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="Rincian Order"
+                android:textSize="@dimen/textsub"
+                android:textColor="@color/white"
+                android:background="@drawable/button_red"
+                android:gravity="center_vertical|center_horizontal"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

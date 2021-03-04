@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-clearcut:16.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f662207fbd34d9a66ebe5d9441a9610/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f662207fbd34d9a66ebe5d9441a9610/jetified-play-services-clearcut-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f662207fbd34d9a66ebe5d9441a9610/jetified-play-services-clearcut-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/de3ff9f7e84fb90b408721b0a48e9a18/jetified-play-services-clearcut-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/a15103e9854d1d76adc66934cdcf5586/jetified-play-services-clearcut-16.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/1c31564fd3ad14f869ea696dfa726c41/jetified-play-services-clearcut-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/1c31564fd3ad14f869ea696dfa726c41/jetified-play-services-clearcut-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/1c31564fd3ad14f869ea696dfa726c41/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/846f7993ec42abc28fe23cc4a855e16e/jetified-play-services-clearcut-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/1228ce014752e875a266793810d44132/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/1228ce014752e875a266793810d44132/jetified-play-services-clearcut-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/1228ce014752e875a266793810d44132/jetified-play-services-clearcut-16.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

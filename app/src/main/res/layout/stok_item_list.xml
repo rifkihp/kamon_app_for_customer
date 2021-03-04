@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/ukuran"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.5"
+            android:text="Ukuran &amp; Warna"
+            android:gravity="center_horizontal|center_vertical"
+            android:textColor="@color/Tex"
+            android:padding="5dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginRight="1dp"
+            android:layout_marginBottom="1dp"
+            android:textSize="@dimen/text" />
+
+        <TextView
+            android:id="@+id/stok"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Stok"
+            android:gravity="center_vertical|center_horizontal"
+            android:textColor="@color/Tex"
+            android:padding="5dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginRight="1dp"
+            android:layout_marginBottom="1dp"
+            android:textSize="@dimen/text" />
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp" >
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:selectAllOnFocus="true"
+                    android:textColor="@color/Tex"
+                    android:background="#0000"
+                    android:gravity="right"
+                    android:inputType="number"
+                    android:maxLines="1"
+                    android:singleLine="true"
+                    android:id="@+id/qty"
+                    android:paddingRight="5dp"
+                    android:paddingBottom="2dp"
+                    android:textSize="@dimen/text"  />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/divider"
+                    android:layout_alignBottom="@+id/qty" />
+
+        </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.andrognito.flashbar:flashbar:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/b6b0206a066bf4d835ed3aeb313fbbbe/jetified-flashbar-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/b6b0206a066bf4d835ed3aeb313fbbbe/jetified-flashbar-1.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/b6b0206a066bf4d835ed3aeb313fbbbe/jetified-flashbar-1.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/40d2ba2f7585cea661fcf5f36c191d46/jetified-flashbar-1.0.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/40d2ba2f7585cea661fcf5f36c191d46/jetified-flashbar-1.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/40d2ba2f7585cea661fcf5f36c191d46/jetified-flashbar-1.0.2/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/29c85a5e28a7133dc5bd0e6cd8d16f06/jetified-flashbar-1.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/29c85a5e28a7133dc5bd0e6cd8d16f06/jetified-flashbar-1.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/29c85a5e28a7133dc5bd0e6cd8d16f06/jetified-flashbar-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/ea403b097c535154ae08d06b4852f9b9/jetified-flashbar-1.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/ea403b097c535154ae08d06b4852f9b9/jetified-flashbar-1.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/ea403b097c535154ae08d06b4852f9b9/jetified-flashbar-1.0.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/f8aee0f3aeaca3eb833dfa000f469d34/jetified-flashbar-1.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/f8aee0f3aeaca3eb833dfa000f469d34/jetified-flashbar-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/f8aee0f3aeaca3eb833dfa000f469d34/jetified-flashbar-1.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/modules-2/files-2.1/com.andrognito.flashbar/flashbar/1.0.2/ad769a25445edf16abed3c2b559a7bb92674855a/flashbar-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/modules-2/files-2.1/com.andrognito.flashbar/flashbar/1.0.2/9811ad61389837de14f289ce1adeae25405e2c82/flashbar-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

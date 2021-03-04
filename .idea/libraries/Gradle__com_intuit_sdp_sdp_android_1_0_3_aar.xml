@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.intuit.sdp:sdp-android:1.0.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c48f9149cd3da466185a9cc2ef1fb996/jetified-sdp-android-1.0.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c48f9149cd3da466185a9cc2ef1fb996/jetified-sdp-android-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c48f9149cd3da466185a9cc2ef1fb996/jetified-sdp-android-1.0.3/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/f435b5b6dec868e4bb1dd94c31585aa9/jetified-sdp-android-1.0.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/f435b5b6dec868e4bb1dd94c31585aa9/jetified-sdp-android-1.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/f435b5b6dec868e4bb1dd94c31585aa9/jetified-sdp-android-1.0.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

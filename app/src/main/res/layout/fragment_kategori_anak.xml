@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/activity_bg"
+    tools:context=".MainActivity">
+
+    <kamoncust.application.com.libs.StickyScrollView
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        android:fillViewport="true" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <kamoncust.application.com.libs.HeightWrappingViewPager
+                android:id="@+id/lockableViewPager"
+                android:layout_width="match_parent"
+                android:layout_height="310dp"
+                android:scrollbars="none" />
+
+            <kamoncust.application.com.libs.CustomTabLayout
+                android:id="@+id/tab_layout"
+                android:layout_below="@+id/lockableViewPager"
+                android:tag="sticky"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:tabSelectedTextColor="#278CE3"
+                app:tabIndicatorColor="#278CE3"
+                app:tabIndicatorHeight="3.9dp"
+                android:background="@color/white"
+                app:tabTextColor="#000000"
+                custom:tabGravity="fill"
+                app:tabMode="fixed" />
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/pager"
+                android:layout_below="@id/tab_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none" />
+
+        </RelativeLayout>
+
+    </kamoncust.application.com.libs.StickyScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.matrixxun:MaterialBadgeTextView:c5a27e8243@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ed88cf7e776f4f62cbe4c9d3c81e262/jetified-MaterialBadgeTextView-c5a27e8243/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ed88cf7e776f4f62cbe4c9d3c81e262/jetified-MaterialBadgeTextView-c5a27e8243/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ed88cf7e776f4f62cbe4c9d3c81e262/jetified-MaterialBadgeTextView-c5a27e8243/res" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/9461e9aca04eb2aa46e18b6a74b1dc4b/jetified-MaterialBadgeTextView-c5a27e8243/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/9461e9aca04eb2aa46e18b6a74b1dc4b/jetified-MaterialBadgeTextView-c5a27e8243/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/9461e9aca04eb2aa46e18b6a74b1dc4b/jetified-MaterialBadgeTextView-c5a27e8243/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/36f666723413feef992787876913fd86/jetified-MaterialBadgeTextView-c5a27e8243/res" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/36f666723413feef992787876913fd86/jetified-MaterialBadgeTextView-c5a27e8243/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/36f666723413feef992787876913fd86/jetified-MaterialBadgeTextView-c5a27e8243/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

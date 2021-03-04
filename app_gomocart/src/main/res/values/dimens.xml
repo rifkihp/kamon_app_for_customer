@@ -1,0 +1,48 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text">15sp</dimen>
+    <dimen name="texttitle">18sp</dimen>
+    <dimen name="textsub">12sp</dimen>
+    <dimen name="textlist">16sp</dimen>
+    <dimen name="spacing">19dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--  menu text size-->
+    <dimen name="menu_text">15sp</dimen>
+
+    <!--  menu text pading-->
+    <dimen name="menu_textpading">12dp</dimen>
+
+    <!--  menu layout pading-->
+    <dimen name="menu_layoutpading">16dp</dimen>
+
+    <!--  menu layout topmargin-->
+    <dimen name="menu_layouttopmargin">10dp</dimen>
+
+
+    <!--  menu  cat img topmargin-->
+    <dimen name="menucat_imgtopmargin">11dp</dimen>
+
+    <!--courier app-->
+
+    <dimen name="activity_padding">@dimen/_16sdp</dimen>
+    <dimen name="edittext_height">@dimen/_40sdp</dimen>
+    <dimen name="cornerRadius">@dimen/_20sdp</dimen>
+    <dimen name="editTextFont">@dimen/_12sdp</dimen>
+    <dimen name="item_margin_top">@dimen/_6sdp</dimen>
+    <dimen name="corner_radius">@dimen/_2sdp</dimen>
+    <dimen name="custom_padding">@dimen/_8sdp</dimen>
+    <dimen name="custom_padding_large">@dimen/_12sdp</dimen>
+    <dimen name="card_shadow">2dp</dimen>
+    <dimen name="card_tag_shadow">5dp</dimen>
+    <dimen name="drop_shadow_height">@dimen/_2sdp</dimen>
+    <dimen name="margin_bottom">5dp</dimen>
+
+</resources>

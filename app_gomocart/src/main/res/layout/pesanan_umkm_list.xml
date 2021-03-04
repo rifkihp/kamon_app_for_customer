@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp" >
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:src="@drawable/logo_grayscale"
+            android:scaleType="fitXY" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="10dp" >
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:textColor="#000000"
+                android:textSize="@dimen/text"
+                android:text="Lemon peel Base ball" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/ukuran"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColorHint="@color/textSub"
+                    android:textSize="@dimen/textsub"
+                    android:text="L"
+                    android:textColor="@color/Tex"
+                    android:paddingRight="5dp" />
+
+                <View
+                    android:id="@+id/separator_warna"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/rectcolor"
+                    android:layout_marginRight="5dp" />
+
+                <TextView
+                    android:id="@+id/warna"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColorHint="@color/textSub"
+                    android:textSize="@dimen/textsub"
+                    android:text="KUNING"
+                    android:textColor="@color/Tex"
+                    android:layout_marginRight="5dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/qty"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/textsub"
+                    android:text="3 Pcs"
+                    android:textColor="@color/Tex"  />
+
+                <TextView
+                    android:id="@+id/price"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/textsub"
+                    android:text=" @ 50.000 (-10%) Rp. 20.000"
+                    android:textColor="@color/Tex" />
+
+                <TextView
+                    android:id="@+id/total"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/textsub"
+                    android:text="Rp. 130.000"
+                    android:textColor="@color/Tex"
+                    android:gravity="bottom|right"/>
+
+                <!-- View
+                    android:id="@+id/separator_ukuran"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/rectcolor"
+                    android:layout_marginRight="10dp"  />
+
+                <TextView
+                    android:id="@+id/ukuran"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColorHint="@color/textSub"
+                    android:textSize="@dimen/textsub"
+                    android:text="L"
+                    android:textColor="@color/Tex"
+                    android:paddingRight="10dp" />
+
+                <View
+                    android:id="@+id/separator_warna"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/rectcolor"
+                    android:layout_marginRight="10dp"  />
+
+                <TextView
+                    android:id="@+id/warna"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColorHint="@color/textSub"
+                    android:textSize="@dimen/textsub"
+                    android:text="KUNING"
+                    android:textColor="@color/Tex" / -->
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

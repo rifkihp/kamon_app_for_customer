@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:background="@drawable/card_background" >
+
+    <TextView
+		android:id="@+id/txtFromPuskop"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentRight="true"
+	    android:layout_alignParentTop="true"
+	    android:layout_centerHorizontal="true"
+	    android:padding="20dp"
+	    android:background="@drawable/text"
+	    android:gravity="center_horizontal"
+	    android:text="PUSKOP"
+	    android:textSize="18sp" />
+
+	<TextView
+		android:id="@+id/txtFromPrimkop"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentRight="true"
+		android:layout_below="@+id/txtFromPuskop"
+		android:layout_centerHorizontal="true"
+		android:gravity="center_horizontal"
+		android:background="@drawable/text"
+		android:padding="20dp"
+		android:text="PRIMKOP"
+		android:textSize="18sp" />
+
+	<TextView
+		android:id="@+id/txtFromUmkm"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentRight="true"
+		android:layout_below="@+id/txtFromPrimkop"
+		android:layout_centerHorizontal="true"
+		android:background="@drawable/text"
+		android:gravity="center_horizontal"
+		android:padding="20dp"
+		android:text="UMKM"
+		android:textSize="18sp" />
+
+	<TextView
+		android:id="@+id/txtFromKomodity"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentRight="true"
+		android:layout_below="@+id/txtFromUmkm"
+		android:layout_centerHorizontal="true"
+		android:gravity="center_horizontal"
+		android:background="@drawable/text"
+		android:padding="20dp"
+		android:text="KOMODITY"
+		android:textSize="18sp" />
+	    
+</RelativeLayout>

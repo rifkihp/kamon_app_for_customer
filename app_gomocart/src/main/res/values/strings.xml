@@ -1,0 +1,498 @@
+<resources>
+
+    <string name="app_id">1874726539438323</string>
+    <string name="search_label">Cari Produk</string>
+
+    <string name="add_group_title">Add Group</string>
+    <string name="pick_group_title">Group List</string>
+    <string name="add_transaksi_title">New Transaction</string>
+    <string name="nol">00</string>
+    <string name="message_to">081219082008</string>
+    <string name="message_send">Message to send.</string>
+    <string name="message_datetime">00:00</string>
+    <string name="datepicker">Datepicker</string>
+    <string name="action_add">New</string>
+    <string name="action_transaksi">Transaction</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_setting">Setting</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_search">Search</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_save_image">Save Image</string>
+    <string name="groups_jumlah_nomer">0 Number</string>
+    <string name="groups_nama_group">Name</string>
+    <string name="groups_pejelasan_group">Information</string>
+    <string name="nama_operator">Provider Name</string>
+    <string name="generate_pengaturan_prolog">Change the message format and set as desired before being processed.</string>
+    <string name="generate_pengaturan_format">Message Format</string>
+    <string name="generate_pengaturan_format_prolog">using parameter [QRCODE] for QR Code value and [SET] for set value.</string>
+    <string name="generate_pengaturan_set">Set Message</string>
+    <string name="generate_pengaturan_set_prolog">Use with "-" mark to separate sets.</string>
+    <string name="generate_pengaturan_start_set">It starts from set to</string>
+    <string name="generate_pengaturan_generate">Generate</string>
+    <string name="action_generate_cancel">Cancle</string>
+    <string name="action_generate_submit">Submit</string>
+    <string name="generate_scan">Scan Barcode</string>
+    <string name="pengaturan_prolog">Parameters required for the messaging process.</string>
+    <string name="pengaturan_katakunci_1">Response match 1</string>
+    <string name="pengaturan_katakunci_2">Response match 2</string>
+    <string name="pengaturan_katakunci_3">Response match 3</string>
+    <string name="pengaturan_delay">Reply waiting time</string>
+    <string name="pengaturan_delay_prolog">Fill in the reply wait time in seconds.</string>
+    <string name="pengaturan_tindakan">Action</string>
+    <string name="pengaturan_tindakan_prolog">Action when replies wait time out.</string>
+    <string name="pengaturan_nomer_tujuan">No. Destination Message delivery</string>
+    <string name="pengaturan_nomer_sn_sim">Serial Number of Sender\'s SIM Card </string>
+    <string name="gantipassword_prolog">Please input the old password then fill in the new password and confirm.</string>
+    <string name="gantipassword_katakunci_1">Old password</string>
+    <string name="gantipassword_katakunci_2">New password</string>
+    <string name="gantipassword_katakunci_3">Confirm Password</string>
+
+    <string name="dana_payment_label">PEMBAYARAN</string>
+    <string name="ganti">Ubah Password</string>
+    <string name="contact_nama">Name</string>
+    <string name="contact_nomer">Number</string>
+    <string name="detail_harga">Rp. 12.000</string>
+    <string name="listdata_alamat">Jalan Sukamaju Baru Komplek Damai Blok C7 Citeureup Bogor.</string>
+    <string name="listdata_nohp">123456789</string>
+    <string name="listdata_nama">Place Name</string>
+    <string name="alamat_nama">Address Name</string>
+    <string name="masukan_password">Enter Password</string>
+    <string name="submit">Submit</string>
+    <string name="nomer_telp">Mobile Number</string>
+    <string name="pembeli">Buyer\'s Name</string>
+    <string name="operator">Provider</string>
+    <string name="nominal">Amount</string>
+    <string name="server">Server</string>
+    <string name="sms_center">SMS Center</string>
+    <string name="jenis_transaski">Transaction Type</string>
+    <string name="sim">Simcard</string>
+    <string name="pin">Pin</string>
+    <string name="kirim">Send</string>
+    <string name="batal">Cancel</string>
+    <string name="simpan">Save</string>
+    <string name="reload">Reload</string>
+    <string name="list_dialog_title">Title Dialog</string>
+    <string name="user">User</string>
+    <string name="group">Group</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Content Description -->
+
+
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="timeView">10:52</string>
+    <string name="messageView">Hello How Are You? Hello How Are You? Hello How Are You? Hello How Are You? Hello How Are You?</string>
+    <string name="grand_total">GRAND TOTAL:</string>
+    <string name="subtotal">SUB TOTAL:</string>
+    <string name="lunas">Paid</string>
+    <string name="id_pelanggan">Id Customer</string>
+    <string name="filter_inbox">Inbox Filter</string>
+    <string name="katakunci_sukses">Keywords Transaction success</string>
+    <string name="katakunci_gagal">Keywords Transaction failed</string>
+    <string name="about">About:</string>
+    <string name="subject">Subject:</string>
+    <string name="message">Message Contents:</string>
+    <string name="title">Title Detail</string>
+    <string name="detail">This is text detail</string>
+    <string name="berita_item_judul">News Title</string>
+    <string name="berita_item_tanggal">Date Content</string>
+    <string name="berita_item_konten">News Content</string>
+    <string name="isi_about">This is about content.</string>
+    <string name="office_hour">Office Hour:</string>
+    <string name="isi_office_hour">This is content of office hour.</string>
+    <string name="address">Address</string>
+    <string name="add">My Address</string>
+
+    <string name="isi_address">This is content of address.</string>
+    <string name="contact">Contact:</string>
+    <string name="isi_contat">This is Contact content.</string>
+    <string name="phone">Phone:</string>
+    <string name="isi_phone">This is phone content.</string>
+    <string name="back"> </string>
+    <string name="profile">My Profile</string>
+    <string name="keluar">Exit</string>
+    <string name="nama_klien">Client Name</string>
+    <string name="email_klien">Client Name</string>
+    <string name="location">Location</string>
+    <string name="category">Category</string>
+    <string name="cat">Cat:</string>
+    <string name="periksa_koneksi">Please check your connection and try again</string>
+    <string name="coba_lagi">Please try again</string>
+    <string name="message_header_title">Message</string>
+    <string name="daftar_kategori_produk_title">Product Category</string>
+    <string name="daftar_produk_title">All Product</string>
+    <string name="detail_produk_title">Detail Product</string>
+    <string name="cart_title">Cart</string>
+    <string name="checkout_title">Checkout</string>
+    <string name="pembayaran_title">Payment Confirmation</string>
+    <string name="my_wishlist_title">My Wishlist</string>
+    <string name="message_title">Message</string>
+    <string name="pesanan_title">Order History</string>
+    <string name="gantipassword_title">Change Password</string>
+    <string name="editprofile_title">Edit Profile</string>
+    <string name="data_perusahaan_title">Company Data</string>
+    <string name="data_produk_title">Product List</string>
+    <string name="category_title">Category</string>
+    <string name="lokasi_title">Group By Location</string>
+    <string name="call_notif_title">Notification Call</string>
+    <string name="search_title">Search</string>
+    <string name="search_nama_toko_usaha">Shop / Business Name:</string>
+    <string name="search_kategori">Category:</string>
+    <string name="search_lokasi">Location:</string>
+    <string name="search_btn_search">Search</string>
+    <string name="no_result">No data!</string>
+    <string name="edit_profil_title">Edit Profile</string>
+    <string name="ganti_password_title">Change Password</string>
+    <string name="old_password">Old Password:</string>
+    <string name="new_password">New Password :</string>
+    <string name="konfirmasi_password">Password Confirmation:</string>
+    <string name="app_desc">His house is a variety of places and business directories in Indonesia</string>
+    <string name="login_desc">Free Registration Fee, Press Sign Up</string>
+    <string name="signup_nama">Name</string>
+    <string name="signup_photo">Photo</string>
+    <string name="signup_upload">Upload</string>
+    <string name="login_email">E-mail ID</string>
+    <string name="login_password">Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="change_password_">CHANGE PASSWORD</string>
+    <string name="login_bantuan">Need a Help!</string>
+    <string name="login_sign_in">LOGIN</string>
+    <string name="login_side_bar">Login</string>
+    <string name="register_side_bar">Register</string>
+    <string name="login_forget_password">Forget Password</string>
+    <string name="login_sign_up">Sign Up</string>
+    <string name="sign_in_fb">Sign in with Facebook</string>
+    <string name="help_detail"> If you have: \ n- Questions \ n- Need help \ n- Forgotten password \ n- or other issues, \ n \ n Please contact us at: \nofficial.rumahdirektori@gmail.com</string>
+    <string name="user_profil">User</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_mail_to">Mail To:</string>
+    <string name="send_mail_from">Mail From:</string>
+    <string name="send_mail_subject">Subject:</string>
+    <string name="send_mail_message">Message:</string>
+    <string name="tanya_kami">Asking to us</string>
+    <string name="produk_kami">Our Product</string>
+    <string name="telepon_kami">Contact us</string>
+    <string name="produk_dashboard_item_title">Title</string>
+    <string name="produk_dashboard_item_subtitle">Sub Title</string>
+    <string name="btn_left">Left</string>
+    <string name="btn_right">Right</string>
+    <string name="perusahaan_terbaru">NEW COMPANY</string>
+    <string name="produk_terbaru">NEW PRODUCT</string>
+    <string name="kategori_keterangan">Items Description</string>
+    <string name="jumlah">(0)</string>
+
+
+    <string name="edit_profil_upload">Upload</string>
+
+    <string name="edit_profil_nama_lengkap">Full Name:</string>
+
+    <string name="edit_profil_alamat">Address:</string>
+
+    <string name="edit_profil_kode_pos">Postcode</string>
+
+    <string name="edit_profil_propinsi">Province:</string>
+
+    <string name="edit_profil_kota">City:</string>
+
+    <string name="edit_profil_kecamatan">Sub Districts</string>
+
+    <string name="edit_profil_tanggal_lahir">DOB</string>
+
+    <string name="edit_profil_no_telp">Telephone Number</string>
+
+    <string name="edit_profil_no_handphone">Phone Number</string>
+
+    <string name="lebih_besar">></string>
+
+    <string name="load_more_produk">Related Products</string>
+
+    <string name="reset_password">Reset Password</string>
+
+    <string name="app_lupa_password_desc">Please enter a registered email to reset password.</string>
+
+    <string name="tanggal">Date</string>
+
+    <string name="konten">Content Message</string>
+
+    <string name="dari">From</string>
+
+    <string name="balas">Reply</string>
+
+    <string name="no_found">No results found!</string>
+
+    <string name="notifikasi_item_judul">Notification Title</string>
+
+    <string name="notifikasi_item_tanggal">TNotification Date</string>
+
+    <string name="notifikasi_item_konten">Notification Content</string>
+
+    <string name="message_item_tanggal">Message Date</string>
+    <string name="manage_notification">Manage Notifications</string>
+    <string name="manage_notification_">MANAGE NOTIFICATIONS</string>
+    <string name="message_item_konten">Content Message</string>
+
+    <string name="from_gallery">GALLERY</string>
+
+    <string name="from_camera">CAMERA</string>
+
+    <string name="save_image">Save Image</string>
+
+    <string name="signup"><b><u>Sign up Now</u></b></string>
+
+    <string name="signin"><u><b>Sign in</b></u></string>
+
+    <string name="tandc"><u>Terms and Conditions</u></string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="code"><u>code</u></string>
+
+    <string name="totalpayable"><b>Grand Total:</b></string>
+
+    <string name="totalpayableamount"><b>0</b></string>
+
+    <string name="placeorder"><b>PLACE ORDER</b></string>
+
+    <string name="proses_checkout"><b>CHECKOUT PROCESS</b></string>
+
+    <string name="description"><i>2.5GHz dual-core Intel Core i5 Tourbo Boost up to 3.1GHz</i></string>
+
+    <string name="shiping"><i><b>Shipping next week (exited?)</b></i></string>
+
+    <string name="msg_token_fmt" translatable="false">%s</string>
+
+    <string name="menu_beranda">Home</string>
+
+    <string name="menu_kategori">Category</string>
+
+    <string name="menu_produk">Product</string>
+
+    <string name="menu_checkout">Cart</string>
+
+    <string name="menu_wishlist">Wishlist</string>
+
+    <string name="menu_ongkir">Shipping Charge</string>
+
+    <string name="menu_order">History Order</string>
+
+    <string name="menu_perpesanan">Message</string>
+
+    <string name="menu_informasi">Information</string>
+
+    <string name="menu_notifikasi">Notification</string>
+    <string name="menu_help">Help Center</string>
+
+    <string name="menu_hubungi_pengembang">Developer</string>
+
+
+    <string name="city_must_filled">Destination districts / cities must be filled in!</string>
+    <string name="email_hp">Email / Username / Phone Number</string>
+    <string name="setting_notification">setting_set_notification</string>
+
+    <string name="menu_more">More</string>
+    <string name="menu_language">Language</string>
+    <string name="menu_language_">LANGUAGE</string>
+    <string name="verification">Verification Code</string>
+    <string name="enter_verify_code">Enter verification code</string>
+    <string name="send_code">send code</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_continue">Continue</string>
+
+    <string name="my_profile">My profile</string>
+    <string name="my_addres">My Addres </string>
+    <string name="notification_setting">Notifications Setting </string>
+    <string name="clear_cache">Clear Cache </string>
+    <string name="version">Apps Version </string>
+
+
+    <string name="new_">NEW </string>
+    <string name="promo">PROMO</string>
+    <string name="top_sales">TOP SALES </string>
+    <string name="all">ALL </string>
+
+    <string name="default_">DEFAULT</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+
+    <string name="add_new_address">ADD NEW ADDRESS</string>
+    <string name="district_city">District / City</string>
+    <string name="as_default">As Default</string>
+    <string name="save">SAVE</string>
+
+    <string name="ring_vibrate">Ringing and Vibrate</string>
+    <string name="ring">Ringing </string>
+    <string name="vibrate">Vibrate </string>
+    <string name="new_msg">New Message </string>
+    <string name="update">UPDATE </string>
+    <string name="ending_on">ENDING ON</string>
+
+    <string name="current_password">Current Password </string>
+    <string name="insert_new_password">Insert New Password </string>
+    <string name="retype_new_password">Retype New Password </string>
+
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_no"> Phone Number </string>
+
+
+    <string name="tracking">Tracking and Estimated Cost</string>
+    <string name="developer">Developer</string>
+    <string name="remain">Remember me</string>
+    <string name="login_using">Or Login Using</string>
+    <string name="login_fb">Login with Facebook</string>
+    <string name="verification_code">Enter Verification Code</string>
+    <string name="continue_">Continue</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="agree">Agree </string>
+    <string name="register_fb">Register with Facebook</string>
+
+    <string name="send_via">The verification code has been sent via SMS to</string>
+    <string name="msg">MESSAGE</string>
+    <string name="buy">BUY</string>
+    <string name="resend">RESEND</string>
+    <string name="verify_code">Verification</string>
+    <string name="follow">Follow us</string>
+    <string name="select_all">SELECT ALL</string>
+
+    <string name="select_address"> SELECT ADDRESS </string>
+    <string name="select_add"> Select Address</string>
+    <string name="new_address"> New Address</string>
+    <string name="shipping_method"> SHIPPING METHOD</string>
+    <string name="payment_method"> PAYMENT METHOD</string>
+    <string name="invoice"> Total Invoice</string>
+    <string name="transfer_bank"> Metode Pembayaran</string>
+    <string name="order_confirm"> ORDER CONFIRMATION</string>
+    <string name="shipping_option"> Shipping Option </string>
+    <string name="payment_option"> Payment Option </string>
+    <string name="voucher_code"> Enter Voucher Code </string>
+    <string name="apply"> Apply</string>
+    <string name="order_detail"> Order Detail</string>
+    <string name="history_order_detail"> History Order / Order Detail</string>
+    <string name="total_item"> Total Item</string>
+    <string name="total_order"> Total Order</string>
+    <string name="voucher"> Voucher</string>
+    <string name="sub_total"> Sub Total </string>
+    <string name="shipping_cost">Shipping Cost </string>
+    <string name="finish">FINISH </string>
+    <string name="unpaid">UNPAID </string>
+    <string name="on_process">ON PROCESS </string>
+    <string name="shipping">SHIPPING </string>
+    <string name="cancle">CANCEL </string>
+    <string name="receiver_name">Receiver Name </string>
+    <string name="total_qty">Total Qty </string>
+    <string name="total_payment">Total Payment </string>
+    <string name="cancle_">Cancel </string>
+    <string name="confirmation">Bayar</string>
+    <string name="order_detail_">Order Detail </string>
+    <string name="send_message">Send Message </string>
+    <string name="track_order">Tracking Order </string>
+
+
+    <string name="province">Province</string>
+    <string name="sub_district">Subdistricts</string>
+    <string name="default_add">Set as the default address.</string>
+    <string name="order_confirmation">ORDER COMFIRMATION</string>
+    <string name="delivery_add">DELIVERY ADDRESS</string>
+    <string name="droshiper_name">Dropshiper Name</string>
+    <string name="droshiper_phone">Dropshiper Phone</string>
+
+
+    <string name="no_invoice"> No. Invoice</string>
+    <string name="transfer_amt">Transfer Amount</string>
+    <string name="bank_receive">Bank Receiver</string>
+    <string name="bank_sender">Bank Sender</string>
+    <string name="acc_name"> Account Name</string>
+    <string name="notes"> Notes</string>
+    <string name="evidence_transfer">Evidence of Transfer</string>
+    <string name="confirm">CONFIRM</string>
+
+    <string name="help">Help</string>
+    <string name="contact_us">Contact US</string>
+
+
+    <string name="how_to_shop">How to shop</string>
+    <string name="how_to_pay">How to pay</string>
+    <string name="how_to_track">How to Track Packages</string>
+    <string name="how_to_join_member">How to join a member</string>
+
+    <string name="about_us">About Us</string>
+    <string name="terms">Terms &amp; conditions</string>
+    <string name="policy">Privacy Policy</string>
+    <string name="que">Question answer</string>
+    <string name="reseller_">Reseller &amp; Dropshipper</string>
+
+    <string name="hours">Working hours</string>
+    <string name="day">Monday-Saturday</string>
+    <string name="time">08:00 - 17:00</string>
+
+    <!--Courier-->
+
+    <string name="txt_no_internet_connection">No internet connection.</string>
+    <string name="txt_some_thing_wrong">Something went wrong. Please try again later.</string>
+    <string name="txt_unable_to_connect">Unable to connect with server.</string>
+    <string name="hint_source">Origin</string>
+    <string name="hint_destination">Destination</string>
+    <string name="hint_grams">Weight (in Grams)</string>
+    <string name="hint_number">Waybill Number</string>
+    <string name="hint_provider">Courier</string>
+    <string name="txt_domestic">Domestic</string>
+    <string name="txt_international">International</string>
+    <string name="txt_tracking">Tracking</string>
+    <string name="txt_by_courier">Courier Number</string>
+    <string name="txt_by_price">Price</string>
+    <string name="txt_select_all">Select All</string>
+    <string name="txt_type_address">Type Address</string>
+    <string name="txt_status">Status</string>
+    <string name="txt_courier_no">Courier Number</string>
+    <string name="txt_date">Date</string>
+    <string name="txt_service">Service</string>
+    <string name="txt_source_address">Source Address</string>
+    <string name="txt_penerima">Receiver</string>
+    <string name="txt_destinaton_address">Delivery Address</string>
+    <string name="txt_clear_history">Clear History</string>
+    <string name="txt_change_settings">Change Settings</string>
+    <string name="txt_settings">Settings</string>
+    <string name="txt_fill_all_details">Please fill all details.</string>
+    <string name="txt_delivery_status">Delivery Status :</string>
+    <string name="txt_select_origin">Please select origin.</string>
+    <string name="txt_select_correct_origin">Please enter correct orgin</string>
+    <string name="txt_select_destination">Please select destination</string>
+    <string name="txt_enter_weight">Please enter weight.</string>
+    <string name="txt_grams">Grams</string>
+    <string name="txt_hours">Days</string>
+    <string name="txt_ok">OK</string>
+    <string name="txt_yes">Yes</string>
+    <string name="txt_no">No</string>
+    <string name="txt_clear_history_msg">Are you sure want to clear history?</string>
+    <string name="txt_rate_us">Rate Us</string>
+    <string name="txt_about_us">About us</string>
+    <string name="txt_copy_to_clipboard">Copy to Clipboard</string>
+    <string name="txt_unable_to_copy">No data selected for copy.</string>
+    <string name="txt_copied">Copied to clipboard.</string>
+    <string name="action_filter">Filter</string>
+    <string name="txt_filter_courier">Filter Couriers</string>
+    <string name="txt_submit">Save</string>
+    <string name="txt_weight_settings">Weight Settings</string>
+    <string name="txt_saved">Settings saved successfully.</string>
+    <string name="txt_scan_code">Scan Code</string>
+    <string name="txt_permission_error_message">Please grant camera permission to scan code.</string>
+    <string name="txt_grant_permission">Please grant storage permission to access application.</string>
+    <string name="txt_grant_location_permission">Please grant location permission to access your current location.</string>
+    <string name="txt_from">From</string>
+    <string name="txt_to">To</string>
+    <string name="txt_weight">Weight</string>
+    <string name="term_conditions"><![CDATA[Term & Conditions]]></string>
+    <string name="logout_side_bar">Logout</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="my_profile_">MY PROFILE</string>
+
+</resources>
